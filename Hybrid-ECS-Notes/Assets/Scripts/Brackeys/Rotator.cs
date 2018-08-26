@@ -1,7 +1,7 @@
 ﻿// ----------------------------------------------------------------------------
 // Original Creator: Brackey's guy (Asbjørn)
 // File Developer: Peter Pak
-// Description: Script to generate ground mesh from loading terrain chunks
+// Description: Script to rotate cube with hybrid ECS
 // ----------------------------------------------------------------------------
 
 using UnityEngine;

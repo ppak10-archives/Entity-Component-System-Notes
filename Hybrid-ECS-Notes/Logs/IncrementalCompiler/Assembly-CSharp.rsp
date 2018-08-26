@@ -5,26 +5,6 @@
 -out:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Temp/Assembly-CSharp.dll
 -nostdlib
 -unsafe
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Entities.Properties.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Properties.Codegen.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Jobs.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Jobs.Editor.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Entities.Editor.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Properties.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Collections.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Burst.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Rendering.Hybrid.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Properties.Editor.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Entities.Hybrid.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Mathematics.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Entities.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Transforms.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Burst.Editor.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.TextMeshPro.dll
--r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.4f1\Editor\Data\Managed/UnityEngine/UnityEngine.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.4f1\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.4f1\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll"
@@ -86,6 +66,26 @@
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.4f1\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.4f1\Editor\Data\Managed/UnityEditor.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2018.2.4f1\Editor\Data\Managed/Unity.Locator.dll"
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Entities.Properties.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Properties.Codegen.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Jobs.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Jobs.Editor.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Entities.Editor.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Properties.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Collections.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Burst.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Rendering.Hybrid.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Properties.Editor.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Entities.Hybrid.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Mathematics.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Entities.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Transforms.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Burst.Editor.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+-r:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.4f1/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2018.2.4f1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
@@ -308,5 +308,14 @@
 -d:ENABLE_BURST_AOT
 -d:UNITY_TEAM_LICENSE
 -d:ENABLE_VSTU
--i:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Assets/Scripts/Rotator.cs
+-i:C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Assets/Scripts/Brackeys/Rotator.cs
+-i:"C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Assets/Scripts/Infallible Code/Hybrid/Components/PlayerInput.cs"
+-i:"C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Assets/Scripts/Infallible Code/Hybrid/Components/Speed.cs"
+-i:"C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Assets/Scripts/Infallible Code/Hybrid/Systems/PlayerInputSystem.cs"
+-i:"C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Assets/Scripts/Infallible Code/Hybrid/Systems/PlayerMovementSystem.cs"
+-i:"C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Assets/Scripts/Infallible Code/Pure/Bootstrap.cs"
+-i:"C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Assets/Scripts/Infallible Code/Pure/Components/PlayerInput.cs"
+-i:"C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Assets/Scripts/Infallible Code/Pure/Components/Speed.cs"
+-i:"C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Assets/Scripts/Infallible Code/Pure/Systems/PlayerInputSystem.cs"
+-i:"C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Assets/Scripts/Infallible Code/Pure/Systems/PlayerMovementSystem.cs"
 -v:0

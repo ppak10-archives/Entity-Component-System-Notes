@@ -60,7 +60,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Rotator.cs" />
+    <Compile Include="Assets\Scripts\Brackeys\Rotator.cs" />
+    <Compile Include="Assets\Scripts\Infallible Code\Hybrid\Components\PlayerInput.cs" />
+    <Compile Include="Assets\Scripts\Infallible Code\Hybrid\Components\Speed.cs" />
+    <Compile Include="Assets\Scripts\Infallible Code\Hybrid\Systems\PlayerInputSystem.cs" />
+    <Compile Include="Assets\Scripts\Infallible Code\Hybrid\Systems\PlayerMovementSystem.cs" />
+    <Compile Include="Assets\Scripts\Infallible Code\Pure\Bootstrap.cs" />
+    <Compile Include="Assets\Scripts\Infallible Code\Pure\Components\PlayerInput.cs" />
+    <Compile Include="Assets\Scripts\Infallible Code\Pure\Components\Speed.cs" />
+    <Compile Include="Assets\Scripts\Infallible Code\Pure\Systems\PlayerInputSystem.cs" />
+    <Compile Include="Assets\Scripts\Infallible Code\Pure\Systems\PlayerMovementSystem.cs" />
     <Reference Include="Unity.Entities.Properties">
       <HintPath>C:/Users/Scotty/Documents/GitHub/Hybrid-ECS-Notes/Hybrid-ECS-Notes/Library/ScriptAssemblies/Unity.Entities.Properties.dll</HintPath>
     </Reference>

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Introduction to ECS.unity
+- path: Assets/Scenes/Infallible Code Walkthrough (Hybrid ECS).unity
   isLoaded: 1
   isActive: 1
